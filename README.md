@@ -1,1 +1,1 @@
-A/B test to study retention of a mobile game called Cookie Cats
+A/B test to study retention on a mobile game called Cookie Cats
